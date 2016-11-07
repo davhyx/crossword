@@ -1,0 +1,86 @@
+[
+  {
+    "word": "acero",
+    "index": 0,
+    "axis": "H",
+    "posINI": 0
+  },
+  {
+    "word": "laser",
+    "index": 1,
+    "axis": "H",
+    "posINI": 5
+  },
+  {
+    "word": "tio",
+    "index": 2,
+    "axis": "H",
+    "posINI": 10
+  },
+  {
+    "word": "d",
+    "index": 3,
+    "axis": "H",
+    "posINI": 14
+  },
+  {
+    "word": "ad",
+    "index": 4,
+    "axis": "H",
+    "posINI": 15
+  },
+  {
+    "word": "ne",
+    "index": 5,
+    "axis": "H",
+    "posINI": 18
+  },
+  {
+    "word": "razon",
+    "index": 6,
+    "axis": "H",
+    "posINI": 20
+  },
+  {
+    "word": "altar",
+    "index": 7,
+    "axis": "V",
+    "posINI": 0
+  },
+  {
+    "word": "caida",
+    "index": 8,
+    "axis": "V",
+    "posINI": 1
+  },
+  {
+    "word": "eso",
+    "index": 9,
+    "axis": "V",
+    "posINI": 2
+  },
+  {
+    "word": "z",
+    "index": 10,
+    "axis": "V",
+    "posINI": 22
+  },
+  {
+    "word": "re",
+    "index": 11,
+    "axis": "V",
+    "posINI": 3
+  },
+  {
+    "word": "no",
+    "index": 12,
+    "axis": "V",
+    "posINI": 18
+  },
+  {
+    "word": "orden",
+    "index": 13,
+    "axis": "V",
+    "posINI": 4
+  }
+]
